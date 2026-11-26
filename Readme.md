@@ -315,7 +315,7 @@ A side-scrolling 2D platformer and combat game.
 | Certification | Status |
 |---|---|
 | Microsoft Certified: Azure Fundamentals (AZ-900) | ✅ Passed |
-| AWS Certification | Add verified credential title and badge link |
+| AWS Certification: AWS Certified Solutions Architect – Associate | ✅ Passed |
 
 *Only verified certification details are listed. No unverified badge IDs or credential claims.*
 
