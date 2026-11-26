@@ -338,11 +338,11 @@ Areas of training and technical knowledge sharing:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jagafaster&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jagafaster&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagafaster&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagafaster&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=jagafaster&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=jagafaster&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
